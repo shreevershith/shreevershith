@@ -7,21 +7,22 @@ Previously, I worked as a **Senior Systems Engineer at Infosys**, building AI-dr
 
 ---
 
-## What I Do
+# What I Work On
 
-### Backend & Systems Development
-- Migrating legacy **ASP.NET Web Forms** applications to modern **.NET 8 Razor Pages**
-- Designing modular, maintainable backend architectures with role-based access control
-- Improving performance and UX through **AJAX-driven partial views** and clean UI patterns
+### Software & Systems Engineering
+- Designing and modernizing backend systems and APIs
+- Migrating legacy applications to modern architectures
+- Implementing role-based access control, workflow logic, and performance optimizations
 
-### Applied AI & Automation
-- Building **AI-powered automation workflows** and multilingual chatbots on Azure
-- Designing **RAG systems**, ML pipelines, and experiment-driven model development
-- Working with **LLMs, Transformers, quantization, and QLoRA** for efficient fine-tuning
+### Automation, Data & Intelligent Workflows
+- Building workflow automation and integration pipelines
+- Applying data modeling, analytics, and validation to operational systems
+- Developing intelligent assistants and decision-support tools
 
-### Data-Driven Problem Solving
-- Applying machine learning, NLP, and analytics to real-world domains
-- Using MLOps practices such as **experiment tracking, model versioning, and evaluation**
+### Applied AI & Machine Learning
+- Designing ML and NLP pipelines for real-world use cases
+- Working with modern language models, retrieval systems, and evaluation workflows
+- Applying MLOps practices such as experiment tracking, versioning, and monitoring
 
 ## Technologies & Tools
 
