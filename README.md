@@ -1,64 +1,107 @@
-# Hi, I’m Shreevershith
+# Hi, I’m Shreevershith 👋
 
-I'm a software engineer focused on building AI-powered and automation-driven systems that solve real operational problems. My work sits at the intersection of backend engineering, intelligent workflows, and data-driven decision-making. I've designed and modernized enterprise applications, built event-driven workflows, and developed AI-enabled systems, ranging from LLM-powered assistants to analytics pipelines, that are reliable, scalable, and production-ready. I care deeply about system design, performance, and shipping solutions that create measurable impact.        
-<br>
-I was a **Software Developer** at **The University of Texas System**, where I worked on modernizing large-scale internal applications and building reliable, scalable systems at the intersection of **backend engineering and applied AI**.
-Previously, I worked as a **Senior Systems Engineer at Infosys**, building AI-driven automation and multilingual chatbots utilizing the Microsoft Azure ecosystem for real-world enterprise use cases. I hold a **Master’s degree in Business Analytics and Artificial Intelligence** from **The University of Texas at Dallas**, with hands-on experience in **machine learning, NLP, RAG systems, and MLOps practices**.
+I’m a **Software Engineer** who builds reliable, scalable systems across backend engineering, automation, and applied AI. My work focuses on solving real operational problems by designing production-ready applications, intelligent workflows, and data-driven systems that create measurable impact.
+
+I worked as a **Software Developer at The University of Texas System**, where I modernized large-scale internal applications and improved performance, reliability, and maintainability across enterprise platforms. Previously, I was a **Senior Systems Engineer at Infosys**, where I built AI-driven automation and multilingual chatbots utilizing the Microsoft Azure ecosystem for real-world enterprise use cases.
+
+I hold a **Master’s degree in Business Analytics and Artificial Intelligence** from **The University of Texas at Dallas**, with hands-on experience in machine learning, NLP, retrieval-based systems, and MLOps practices. I completed my undergraduate degree in **Computer Science and Engineering**, which provided a strong foundation in data structures, algorithms, operating systems, and computer architecture.
 
 ---
 
-# What I Work On
+## What I Work On
 
 ### Software & Systems Engineering
 - Designing and modernizing backend systems and APIs
-- Migrating legacy applications to modern architectures
+- Migrating legacy applications to maintainable, modular architectures
 - Implementing role-based access control, workflow logic, and performance optimizations
+- Building systems that are observable, scalable, and production-ready
 
 ### Automation, Data & Intelligent Workflows
-- Building workflow automation and integration pipelines
-- Applying data modeling, analytics, and validation to operational systems
-- Developing intelligent assistants and decision-support tools
+- Developing workflow automation and integration pipelines
+- Applying data modeling, validation, and analytics to operational systems
+- Building intelligent assistants and decision-support tools used in enterprise environments
 
 ### Applied AI & Machine Learning
 - Designing ML and NLP pipelines for real-world use cases
-- Working with modern language models, retrieval systems, and evaluation workflows
-- Applying MLOps practices such as experiment tracking, versioning, and monitoring
-
-## Technologies & Tools
-
-**Languages:**  
-Python, C#, JavaScript/TypeScript, SQL, HTML/CSS, C++
-
-**Backend & APIs:**  
-.NET 8 (Razor Pages), ASP.NET, FastAPI, REST
-
-**AI / ML / Data:**  
-Transformers, QLoRA, RAG, LLMs  
-FastAI, PyTorch, scikit-learn  
-Experimentation, model evaluation, threshold tuning
-
-**Cloud & Platforms:**  
-Microsoft Azure (AI services, Bot Framework, automation workflows)
-
-**Databases:**  
-SQL Server, PostgreSQL / PLpgSQL, relational schema design
-
-**Tools & Practices:**  
-Git / GitHub, Jupyter, MLOps concepts, CI/CD fundamentals
+- Working with modern language models and retrieval-based systems
+- Applying MLOps practices such as experiment tracking, versioning, and evaluation
 
 ---
 
-## What I’m Interested In
+## Selected Projects
 
-- Software Engineering roles with strong **backend or platform focus**
-- **Automation engineering** and workflow orchestration in enterprise environments
-- **Applied AI** projects that solve real business problems
-- Systems where **reliability, scalability, and clean abstractions** actually matter
+### 🔹 Portfolio – Personal Developer Site
+A responsive developer portfolio showcasing projects and experience, designed with a focus on clarity, performance, and maintainability.  
+**Tech:** Next.js, React, Tailwind CSS  
+**Repo:** _(https://github.com/shreevershith/portfolio)_
+
+---
+
+### 🔹 NutriGuard API – Guarded Nutrition Estimation
+A backend service combining structured data and retrieval-based AI techniques to generate explainable nutrition estimates. Designed with reliability, cost-aware execution, and production-style constraints in mind.  
+**Tech:** FastAPI, Python, Retrieval Systems, LLMs  
+**Repo:** _(https://github.com/shreevershith/nutriguard-api)_
+
+---
+
+### 🔹 Emotion Detection with Transformers (Kaggle – 1st Place)
+End-to-end experimentation with transformer-based models for multi-label emotion classification, including efficient fine-tuning, evaluation, and optimization under GPU constraints.  
+**Tech:** Python, Transformers, Model Evaluation  
+**Repo:** _(https://github.com/shreevershith/emotion_detection_using_transformers_kaggle)_
+
+---
+
+### 🔹 Analytics & Machine Learning Projects
+- Predictive modeling and clustering for sales and demand forecasting
+- Statistical modeling using maximum likelihood estimation
+- Deep learning–based scientific and image classification systems
+
+More projects are available on my GitHub.
+
+---
+
+## Technologies & Tools
+
+**Languages**  
+Python, C#, JavaScript / TypeScript, SQL
+
+**Backend & APIs**  
+.NET (Razor Pages), FastAPI, REST APIs
+
+**Data & AI**  
+Machine Learning, NLP, Retrieval Systems, Analytics
+
+**Cloud & Platforms**  
+Microsoft Azure, Amazon Web Services (AWS)
+
+**Databases**  
+SQL Server, PostgreSQL
+
+**Tools & Practices**  
+Git / GitHub, CI/CD fundamentals, MLOps concepts
+
+---
+
+## Certifications
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- **Microsoft Certified: Power Platform Fundamentals (PL-900)**
+
+---
+
+## Interests
+
+- Software engineering roles with a backend or systems focus
+- Automation and platform engineering in enterprise environments
+- Applied AI projects that prioritize reliability and real-world impact
+- Building systems where clean abstractions and scalability matter
 
 ---
 
 ## Let’s Connect
 
-I’m open to **collaborations**, interesting backend or AI side projects, and roles in **software engineering, automation, or applied AI**.
+I’m open to collaboration on interesting technical projects and roles across **software engineering, automation, and applied AI**.
 
-If you’re building something that blends robust software engineering with practical AI, I’d love to be involved.
+If you’re building practical systems at the intersection of engineering and intelligence, I’d be glad to connect.
