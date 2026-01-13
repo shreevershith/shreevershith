@@ -37,6 +37,13 @@ A responsive developer portfolio showcasing projects and experience, designed wi
 
 ---
 
+### 🔹 Legal Strategy Council – Multi-Agent Legal Reasoning System
+A multi-agent AI system where specialized agents collaboratively analyze legal cases through structured debate, conflict detection, and final synthesis. Built with an emphasis on transparency, auditability, and real-time observability, enabling explainable multi-round reasoning rather than opaque single-shot outputs. Demoed live at the MongoDB Agentic Orchestration and Collaboration Hackathon 2026.  
+**Tech:** Python, FastAPI, LLMs, Multi-Agent Systems, MongoDB Atlas, Server-Sent Events (SSE), React  
+**Repo:** _(https://github.com/shreevershith/LegalStrategyCouncil)_
+
+---
+
 ### 🔹 NutriGuard API – Guarded Nutrition Estimation
 A backend service combining structured data and retrieval-based AI techniques to generate explainable nutrition estimates. Designed with reliability, cost-aware execution, and production-style constraints in mind.  
 **Tech:** FastAPI, Python, Retrieval Systems, LLMs  
@@ -69,7 +76,7 @@ Python, C#, JavaScript / TypeScript, SQL
 .NET (Razor Pages), FastAPI, REST APIs
 
 **Data & AI**  
-Machine Learning, NLP, Retrieval Systems, Analytics
+Machine Learning, NLP, Retrieval Systems, Multi-agent Orchestration, Analytics
 
 **Cloud & Platforms**  
 Microsoft Azure, Amazon Web Services (AWS)
