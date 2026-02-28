@@ -1,114 +1,96 @@
-# Hi, I’m Shreevershith 👋
+# Hey, I'm Shreevershith 👋
 
-I’m a **Software Engineer** who builds reliable, scalable systems across backend engineering, automation, and applied AI. My work focuses on solving real operational problems by designing production-ready applications, intelligent workflows, and data-driven systems that create measurable impact.
+I'm a **Software Engineer**. I build reliable, scalable systems across backend engineering, automation, and applied AI. Currently open to backend, systems, and applied AI roles.
 
-I worked as a **Software Developer at The University of Texas System**, where I modernized large-scale internal applications and improved performance, reliability, and maintainability across enterprise platforms. Previously, I was a **Senior Systems Engineer at Infosys**, where I built AI-driven automation and multilingual chatbots utilizing the Microsoft Azure ecosystem for real-world enterprise use cases.
-
-I hold a **Master’s degree in Business Analytics and Artificial Intelligence** from **The University of Texas at Dallas**, with hands-on experience in machine learning, NLP, retrieval-based systems, and MLOps practices. I completed my undergraduate degree in **Computer Science and Engineering**, which provided a strong foundation in data structures, algorithms, operating systems, and computer architecture.
-
----
-
-## What I Work On
-
-### Software & Systems Engineering
-- Designing and modernizing backend systems and APIs
-- Migrating legacy applications to maintainable, modular architectures
-- Implementing role-based access control, workflow logic, and performance optimizations
-- Building systems that are observable, scalable, and production-ready
-
-### Automation, Data & Intelligent Workflows
-- Developing workflow automation and integration pipelines
-- Applying data modeling, validation, and analytics to operational systems
-- Building intelligent assistants and decision-support tools used in enterprise environments
-
-### Applied AI & Machine Learning
-- Designing ML and NLP pipelines for real-world use cases
-- Working with modern language models and retrieval-based systems
-- Applying MLOps practices such as experiment tracking, versioning, and evaluation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreevershith-k/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-shreevershiths-projects.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreevershith)
 
 ---
 
-## Selected Projects
+## 🧠 What I Build
 
-### 🔹 Portfolio – Personal Developer Site
-A responsive developer portfolio showcasing projects and experience, designed with a focus on clarity, performance, and maintainability.  
-**Tech:** Next.js, React, Tailwind CSS  
-**Repo:** _(https://github.com/shreevershith/portfolio)_
-
----
-
-### 🔹 Legal Strategy Council – Multi-Agent Legal Reasoning System
-A multi-agent AI system where specialized agents collaboratively analyze legal cases through structured debate, conflict detection, and final synthesis. Built with an emphasis on transparency, auditability, and real-time observability, enabling explainable multi-round reasoning rather than opaque single-shot outputs. Demoed live at the MongoDB Agentic Orchestration and Collaboration Hackathon 2026.  
-**Tech:** Python, FastAPI, LLMs, Multi-Agent Systems, MongoDB Atlas, Server-Sent Events (SSE), React  
-**Repo:** _(https://github.com/shreevershith/LegalStrategyCouncil)_
+- **Backend & Systems** — APIs, modular architectures, RBAC, workflow logic, performance optimization
+- **Applied AI & NLP** — ML pipelines, RAG, multi-agent orchestration, LLM integration, prompt engineering
+- **Automation & Data** — workflow pipelines, ETL, analytics, Power Platform, decision-support tools
+- **Cloud & Observability** — Azure, AWS, Docker, CI/CD, real-time dashboards, SSE
+- **MLOps** — experiment tracking, model versioning, evaluation frameworks
 
 ---
 
-### 🔹 NutriGuard API – Guarded Nutrition Estimation
-A backend service combining structured data and retrieval-based AI techniques to generate explainable nutrition estimates. Designed with reliability, cost-aware execution, and production-style constraints in mind.  
-**Tech:** FastAPI, Python, Retrieval Systems, LLMs  
-**Repo:** _(https://github.com/shreevershith/nutriguard-api)_
+## 🚀 Featured Projects
+
+### 🔹 [AkashGuard](https://github.com/shreevershith/akashGuard) — *Open Agents Hackathon 2026 · 2nd Place (Akash Track)*
+Autonomous self-healing agent for decentralized cloud on Akash Network. Monitors services, uses Llama 3.3 70B via AkashML to diagnose failures, and automatically redeploys to new providers with a real-time dashboard and Telegram alerts.  
+`Python` `FastAPI` `Akash Network` `AkashML` `LLM` `SQLite` `Telegram`
 
 ---
 
-### 🔹 Emotion Detection with Transformers (Kaggle – 1st Place)
-End-to-end experimentation with transformer-based models for multi-label emotion classification, including efficient fine-tuning, evaluation, and optimization under GPU constraints.  
-**Tech:** Python, Transformers, Model Evaluation  
-**Repo:** _(https://github.com/shreevershith/emotion_detection_using_transformers_kaggle)_
+### 🔹 [Emotion Detection with Transformers](https://github.com/shreevershith/emotion_detection_using_transformers_kaggle) — *Kaggle 1st Place 🥇*
+Multi-label emotion classification with RoBERTa, ALBERT, DistilBERT, and QLoRA fine-tuning on Qwen. 4-bit quantization and threshold optimization under GPU constraints.  
+`Python` `Transformers` `QLoRA` `HuggingFace`
 
 ---
 
-### 🔹 Analytics & Machine Learning Projects
-- Predictive modeling and clustering for sales and demand forecasting
-- Statistical modeling using maximum likelihood estimation
-- Deep learning–based scientific and image classification systems
-
-More projects are available on my GitHub.
+### 🔹 [Portfolio](https://github.com/shreevershith/portfolio)
+A responsive developer site showcasing projects, experience, RAG chatbot, dark mode, and linked to Google Analytics.  
+`Next.js` `React` `Tailwind CSS` `Framer Motion`
 
 ---
 
-## Technologies & Tools
+### 🔹 [DealGraph](https://github.com/shreevershith/dealgraph) — *AWS x Anthropic x Datadog GenAI Hackathon 2026*
+AI-powered due diligence copilot for VC investors. Upload a pitch deck and get confidence-scored analysis with verified claims, competitive intelligence, and a voice-narrated deal memo. Claim-level routing to graph, web, and LLM verification.  
+`Python` `FastAPI` `Strands Agents` `Next.js` `Memgraph` `LLM` `D3.js`
+
+---
+*More on GitHub — GlassesToReels, Cactus Voice, LegacyCouncil, and others.*
+
+---
+
+## 🛠 Tech Stack
 
 **Languages**  
-Python, C#, JavaScript / TypeScript, SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-**Backend & APIs**  
-.NET (Razor Pages), FastAPI, REST APIs
+**Backend & Frontend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-**Data & AI**  
-Machine Learning, NLP, Retrieval Systems, Multi-agent Orchestration, Analytics
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-**Cloud & Platforms**  
-Microsoft Azure, Amazon Web Services (AWS)
-
-**Databases**  
-SQL Server, PostgreSQL
-
-**Tools & Practices**  
-Git / GitHub, CI/CD fundamentals, MLOps concepts
-
----
-
-## Certifications
-
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
-- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
-- **Microsoft Certified: Power Platform Fundamentals (PL-900)**
-
----
-
-## Interests
-
-- Software engineering roles with a backend or systems focus
-- Automation and platform engineering in enterprise environments
-- Applied AI projects that prioritize reliability and real-world impact
-- Building systems where clean abstractions and scalability matter
+**Cloud, Data & DevOps**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## Let’s Connect
+## 📜 Certifications
 
-I’m open to collaboration on interesting technical projects and roles across **software engineering, automation, and applied AI**.
+| Cert | Issuer |
+|------|--------|
+| Azure Fundamentals (AZ-900) | Microsoft |
+| Azure AI Fundamentals (AI-900) | Microsoft |
+| Azure Data Fundamentals (DP-900) | Microsoft |
+| Power Platform Fundamentals (PL-900) | Microsoft |
+| AWS Certified Developer (DVA-C02) | AWS *(in progress)* |
 
-If you’re building practical systems at the intersection of engineering and intelligence, I’d be glad to connect.
+---
+
+## 🤝 Let's Connect
+
+I'm open to roles in backend engineering, systems engineering, and applied AI, especially where clean abstractions and real-world reliability are important.
+
+📬 [LinkedIn](https://www.linkedin.com/in/shreevershith-k/) · 🌐 [Portfolio](https://portfolio-shreevershiths-projects.vercel.app/)
