@@ -32,11 +32,11 @@ Multi-label emotion classification with RoBERTa, ALBERT, DistilBERT, and QLoRA f
 
 ---
 
-### 🔹 [Portfolio](https://github.com/shreevershith/portfolio)
+<!-- ### 🔹 [Portfolio](https://github.com/shreevershith/portfolio)
 A responsive developer site showcasing projects, experience, RAG chatbot, dark mode, and linked to Google Analytics.  
 `Next.js` `React` `Tailwind CSS` `Framer Motion`
 
----
+--- -->
 
 ### 🔹 [DealGraph](https://github.com/shreevershith/dealgraph) — *AWS x Anthropic x Datadog GenAI Hackathon 2026*
 AI-powered due diligence copilot for VC investors. Upload a pitch deck and get confidence-scored analysis with verified claims, competitive intelligence, and a voice-narrated deal memo. Claim-level routing to graph, web, and LLM verification.  
