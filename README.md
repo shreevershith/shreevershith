@@ -51,9 +51,9 @@ Multimodal AI companion built in collaboration with an early-stage robotics comp
 
 ---
 
-### 🔹 Voice-to-Action Meeting Agent — *Currently Building*
+<!--### 🔹 Voice-to-Action Meeting Agent — *Currently Building*
 Wearable AI agent that turns meeting audio into structured actions. Real-time transcription via Deepgram WebSockets, Claude reasoning, SSE streaming to the client. Building in collaboration with a wearable AI startup.
-`FastAPI` `Deepgram` `Claude API` `SSE` `WebSockets`
+`FastAPI` `Deepgram` `Claude API` `SSE` `WebSockets`-->
 
 ---
 
