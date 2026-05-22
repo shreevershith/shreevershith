@@ -45,9 +45,9 @@ AI-powered due diligence copilot for VC investors. Upload a pitch deck, get conf
 
 ---
 
-### 🔹 [Multimodal AI Companion](https://github.com/shreevershith/abide-companion) — *Trial Prototype*
+<!--### 🔹 [Multimodal AI Companion](https://github.com/shreevershith/abide-companion) — *Trial Prototype*
 Multimodal AI companion built in collaboration with an early-stage robotics company. Voice and vision pipelines with real-time LLM reasoning.
-`Python` `Multimodal LLM` `Voice` `Vision`
+`Python` `Multimodal LLM` `Voice` `Vision`-->
 
 ---
 
