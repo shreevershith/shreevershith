@@ -1,8 +1,8 @@
 # Hey, I'm Shreevershith 👋
 
-I'm an **AI Engineer** building agentic systems, LLM infrastructure, and applied AI products. I care about clean abstractions, real-world reliability, and shipping things that work end-to-end.
+I'm an **AI Software Engineer** building agentic systems, LLM infrastructure, and applied AI products. I worked with multi-agent orchestration, real-time voice pipelines, fine-tuning, and production observability. I also bring solid backend depth in .NET 8, C#, and enterprise software engineering from prior roles building production systems. I care about clean abstractions, real-world reliability, and shipping things that work end-to-end.
 
-Currently open to **AI Engineer, Applied AI, and Forward Deployed** roles.
+Open to **AI Engineer, AI Software Engineer, Applied AI, and Forward Deployed** roles, especially places shipping agentic systems with real users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreevershith-k/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-shreevershiths-projects.vercel.app/)
@@ -13,6 +13,7 @@ Currently open to **AI Engineer, Applied AI, and Forward Deployed** roles.
 ## 🧠 What I Build
 
 - **Agentic Systems** — multi-agent orchestration, LLM reasoning loops, autonomous recovery
+- **Real-Time Voice AI** — streaming STT/TTS, VAD, barge-in handling, low-latency loops
 - **Applied AI & LLM Infra** — RAG pipelines, fine-tuning (QLoRA/PEFT), evaluation frameworks
 - **Backend & APIs** — FastAPI, .NET 8, async workflows, modular architectures
 - **Observability & MLOps** — OpenTelemetry, Langfuse, W&B, experiment tracking
@@ -20,6 +21,12 @@ Currently open to **AI Engineer, Applied AI, and Forward Deployed** roles.
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 [InferScope](https://inferscope.vercel.app) — *AI Model Intelligence Dashboard ([repo](https://github.com/shreevershith/inferscope))*
+Solo-built, live full-stack dashboard for comparing LLM cost, latency, and infrastructure. Three modules: Model Arena (LMSYS ELO + OpenRouter), Cost Calculator, and Infra Explorer across 15 providers and 10 GPUs. Includes a Groq Llama 3.3 70B advisor, rate limiting, and prompt injection defenses.
+`React 18` `Vite` `Zustand` `SWR` `Tailwind` `Recharts` `Groq` `Vercel`
+
+---
 
 ### 🔹 [AkashGuard](https://github.com/shreevershith/akashGuard) — *Open Agents Hackathon 2026 · 2nd Place 🥈*
 Autonomous self-healing agent for decentralized cloud. Uses Llama 3.3 70B to diagnose deployment failures, selects recovery actions via confidence scoring, and redeploys workloads across Akash providers. Decision traces via Langfuse.
@@ -33,31 +40,19 @@ Multi-label emotion classification over 1M+ tweets. Benchmarked RoBERTa, DistilB
 
 ---
 
-### 🔹 [InferScope](https://inferscope.vercel.app) — *AI Model Intelligence Dashboard ([repo](https://github.com/shreevershith/inferscope))*
-Solo-built full-stack dashboard for comparing LLM cost, latency, and infrastructure. Three modules: Model Arena, Cost Calculator, Infra Explorer. Includes a Groq Llama 3.3 70B advisor for recommendations.
-`React 18` `Vite` `Zustand` `SWR` `Tailwind` `Recharts` `Groq`
-
----
-
 ### 🔹 [DealGraph](https://github.com/shreevershith/dealgraph) — *AWS x Anthropic x Datadog GenAI Hackathon 2026*
 AI-powered due diligence copilot for VC investors. Upload a pitch deck, get confidence-scored analysis with verified claims and a voice-narrated deal memo. Claim-level routing across graph, web, and LLM verifiers with OpenTelemetry tracing.
 `Python` `FastAPI` `Strands Agents` `Next.js` `Memgraph` `OpenTelemetry` `D3.js`
 
 ---
 
-<!--### 🔹 [Multimodal AI Companion](https://github.com/shreevershith/abide-companion) — *Trial Prototype*
-Multimodal AI companion built in collaboration with an early-stage robotics company. Voice and vision pipelines with real-time LLM reasoning.
-`Python` `Multimodal LLM` `Voice` `Vision`-->
+### 🔹 Real-Time Voice AI — *Personal Exploration*
+Real-time multimodal voice agent work: streaming transcription, voice activity detection, and low-latency LLM reasoning loops with barge-in handling. Focused on the reliability problems specific to live audio, including turn-taking, interruption, and hallucination control. Repos private.
+`FastAPI` `Streaming STT` `VAD` `LLM Orchestration` `Langfuse`
 
 ---
 
-<!--### 🔹 Voice-to-Action Meeting Agent — *Currently Building*
-Wearable AI agent that turns meeting audio into structured actions. Real-time transcription via Deepgram WebSockets, Claude reasoning, SSE streaming to the client. Building in collaboration with a wearable AI startup.
-`FastAPI` `Deepgram` `Claude API` `SSE` `WebSockets`-->
-
----
-
-*More on GitHub — GlassesToReels, Cactus Voice, NutriGuard (RAG with Ragas evals), and others.*
+*More on GitHub — GlassesToReels, NutriGuard (RAG with Ragas evals), and others.*
 
 ---
 
@@ -91,7 +86,6 @@ Wearable AI agent that turns meeting audio into structured actions. Real-time tr
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
@@ -104,12 +98,12 @@ Wearable AI agent that turns meeting audio into structured actions. Real-time tr
 | Azure AI Fundamentals (AI-900) | Microsoft |
 | Azure Data Fundamentals (DP-900) | Microsoft |
 | Power Platform Fundamentals (PL-900) | Microsoft |
-| AWS Certified Developer (DVA-C02) | AWS *(in progress)* |
+<!--| AWS Certified Developer (DVA-C02) | AWS *(in progress)* |-->
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to AI Engineer, Applied AI, and Forward Deployed roles — especially places shipping agentic systems with real users.
+I'm open to AI Engineer, AI Software Engineer, Applied AI, and Forward Deployed roles, especially places shipping agentic systems with real users.
 
 📬 [LinkedIn](https://www.linkedin.com/in/shreevershith-k/) · 🌐 [Portfolio](https://portfolio-shreevershiths-projects.vercel.app/)
