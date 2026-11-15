@@ -16,7 +16,7 @@ Open to **Applied AI, AI Engineer and Forward Deployed** roles, especially teams
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreevershith-k/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreevershith)
 
-> 🎮 My [portfolio](https://shreevershith.com/) is a pixel-art career game: walk through four career levels, ask a RAG chatbot about my work, or press Space and play Bug Run.
+> 🎮 My [portfolio](https://shreevershith.com/) is a pixel-art career game: walk four career levels, read the quest log, ask my AI bot, or play Bug Run (jump and duck).
 
 <p align="center">
   <a href="https://shreevershith.com/">
@@ -38,9 +38,9 @@ Open to **Applied AI, AI Engineer and Forward Deployed** roles, especially teams
 
 ## 💼 Recent work
 
-- **Vernus Technologies, Software Engineer (Analytics Platform), Jul 2026 – now:** sole developer rebuilding OptionFormulator from legacy .NET into Python + TypeScript on Azure. The platform runs a **15s options scan cycle** across **22 strategies**, has **230 tests** checked against the legacy system, and uses a grounded LLM to explain each pick while code supplies every number.
-- **Stealth Startup, Software Engineer (Forward Deployed), Jun – Jul 2026:** voice-to-action that turns live conversations into reviewable tasks, with human approval gates and idempotent execution.
-- **Implify, AI Engineer (Forward Deployed), Oct 2025 – Jun 2026:** an eldercare voice assistant with a **4.5s median time to first audio** and a 6-layer filter against speech-to-text hallucinations.
+- **Vernus Technologies, Software Engineer (Analytics Platform), Jul 2026 - present:** sole developer rebuilding OptionFormulator from legacy .NET into Python + TypeScript on Azure. The platform runs a **15s options scan cycle** across **22 strategies**, has **230 tests** checked against the legacy system, and uses a grounded LLM to explain each pick while code supplies every number.
+- **Stealth Startup, Software Engineer (Forward Deployed), Jun - Jul 2026:** voice-to-action that turns live conversations into reviewable tasks, with human approval gates and idempotent execution.
+- **Implify, AI Engineer (Forward Deployed), Oct 2025 - Jun 2026:** an eldercare voice assistant with a **4.5s median time to first audio** and a 6-layer filter against speech-to-text hallucinations.
 
 ---
 
