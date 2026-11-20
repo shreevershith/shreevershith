@@ -6,9 +6,9 @@
 
 # Hey, I'm Shreevershith 👋
 
-I'm an **Applied AI Engineer** in Dallas, building agentic systems, real-time voice agents and LLM products that hold up in production. Right now I'm the sole developer rebuilding **OptionFormulator**, a real-time options analytics platform, at Vernus Technologies. Before that, I built voice-to-action and voice-agent systems at an early-stage startup and at Implify, and enterprise chatbots and .NET systems at Infosys and UT System.
+I'm an **Applied AI Engineer** in Dallas, building agentic systems, real-time voice agents and LLM products that hold up in production. Right now I'm the sole developer rebuilding **OptionFormulator**, a real-time options analytics platform, at Vernus Technologies. Before that, I built voice-to-action and voice-agent ai systems at an early-stage startup and at Implify, and enterprise chatbots and .NET systems at Infosys and UT System.
 
-I care about agents that check their own work: grounded answers, human approval where it matters, and evals and tracing so you can see why something happened.
+I care about agents that check their own work, like grounded answers, human approval where it matters, and evals and tracing so you can see why something happened.
 
 Open to **Applied AI, AI Engineer and Forward Deployed** roles, especially teams shipping agentic systems to real users. Open to relocation.
 
@@ -16,7 +16,7 @@ Open to **Applied AI, AI Engineer and Forward Deployed** roles, especially teams
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreevershith-k/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreevershith)
 
-> 🎮 My [portfolio](https://shreevershith.com/?utm_source=github&utm_medium=profile) is a pixel-art career game: walk four career levels, read the quest log, ask my AI bot, or play Bug Run (jump and duck).
+> 🎮 My [portfolio](https://shreevershith.com/?utm_source=github&utm_medium=profile) is a pixel-art career game where you can walk through four career levels, read the quest log, ask my AI bot, or play Bug Run (jump and duck).
 
 <p align="center">
   <a href="https://shreevershith.com/?utm_source=github&amp;utm_medium=profile">
@@ -39,7 +39,7 @@ Open to **Applied AI, AI Engineer and Forward Deployed** roles, especially teams
 ## 💼 Recent work
 
 - **Vernus Technologies, Software Engineer (Analytics Platform), Jul 2026 - present:** sole developer rebuilding OptionFormulator from legacy .NET into Python + TypeScript on Azure. The platform runs a **15s options scan cycle** across **22 strategies**, has **230 tests** checked against the legacy system, and uses a grounded LLM to explain each pick while code supplies every number.
-- **Stealth Startup, Software Engineer (Forward Deployed), Jun - Jul 2026:** voice-to-action that turns live conversations into reviewable tasks, with human approval gates and idempotent execution.
+- **Stealth Startup, Software Engineer (Forward Deployed), Jun - Jul 2026:** voice-to-action that turns live conversations into reviewable tasks, with human approval controls.
 - **Implify, AI Engineer (Forward Deployed), Oct 2025 - Jun 2026:** an eldercare voice assistant with a **4.5s median time to first audio** and a 6-layer filter against speech-to-text hallucinations.
 
 ---
@@ -51,7 +51,7 @@ A self-healing agent for decentralized cloud. Llama 3.3 70B diagnoses failing de
 `Python` `FastAPI` `Akash Network` `Llama 3.3 70B` `Langfuse` `Telegram`
 
 ### 🔹 [Emotion Detection with Transformers](https://github.com/shreevershith/emotion_detection_using_transformers_kaggle): *Kaggle 1st place 🥇* · [demo](https://huggingface.co/spaces/shreevershith/emotionDetectionUsingQwen3)
-Multi-label emotion classification over 1M+ tweets. I benchmarked RoBERTa, DistilBERT and ALBERT, then fine-tuned Qwen3-0.6B with 4-bit QLoRA. Macro-F1 went from **0.74 to 0.81** with per-class thresholds and synonym augmentation.
+Multi-label classification of 11 emotions on a Kaggle tweet dataset of 7,724 labeled examples. I benchmarked ALBERT, DistilBERT, DistilRoBERTa and RoBERTa, then fine-tuned Qwen3-0.6B with QLoRA, using per-class thresholds and augmentation for the minority classes.
 `PyTorch` `Qwen3` `QLoRA` `Hugging Face` `W&B`
 
 ### 🔹 [InferScope](https://inferscope.vercel.app): *live LLM cost and performance dashboard* · [repo](https://github.com/shreevershith/inferscope)
@@ -86,7 +86,6 @@ Voice commands turned into actions **fully on-device** with local Whisper and Fu
 
 **ML & MLOps**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 **Languages & backend**
