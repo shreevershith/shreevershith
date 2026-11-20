@@ -51,7 +51,7 @@ A self-healing agent for decentralized cloud. Llama 3.3 70B diagnoses failing de
 `Python` `FastAPI` `Akash Network` `Llama 3.3 70B` `Langfuse` `Telegram`
 
 ### 🔹 [Emotion Detection with Transformers](https://github.com/shreevershith/emotion_detection_using_transformers_kaggle): *Kaggle 1st place 🥇* · [demo](https://huggingface.co/spaces/shreevershith/emotionDetectionUsingQwen3)
-Multi-label classification of 11 emotions on a Kaggle tweet dataset of 7,724 labeled examples. I benchmarked ALBERT, DistilBERT, DistilRoBERTa and RoBERTa, then fine-tuned Qwen3-0.6B with QLoRA, using per-class thresholds and augmentation for the minority classes.
+Multi-label classification of 11 emotions on a Kaggle tweet dataset of 7,724 labeled examples. I benchmarked ALBERT, DistilBERT, DistilRoBERTa and RoBERTa, then fine-tuned Qwen models with QLoRA, and my best submission was a Qwen2.5-7B with focal loss and per-class threshold tuning.
 `PyTorch` `Qwen3` `QLoRA` `Hugging Face` `W&B`
 
 ### 🔹 [InferScope](https://inferscope.vercel.app): *live LLM cost and performance dashboard* · [repo](https://github.com/shreevershith/inferscope)
