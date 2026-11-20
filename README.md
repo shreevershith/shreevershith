@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shreevershith.com/">
+  <a href="https://shreevershith.com/?utm_source=github&amp;utm_medium=profile">
     <img src="./banner.svg" alt="Pixel-art banner: Shreevershith's avatar running past the Dallas skyline, jumping a bug. Applied AI Engineer · LLM agents · voice AI" width="100%">
   </a>
 </p>
@@ -12,17 +12,17 @@ I care about agents that check their own work: grounded answers, human approval 
 
 Open to **Applied AI, AI Engineer and Forward Deployed** roles, especially teams shipping agentic systems to real users. Open to relocation.
 
-[![Portfolio](https://img.shields.io/badge/shreevershith.com-play_the_career_game-FFCF3F?style=flat&logo=googlechrome&logoColor=black)](https://shreevershith.com/)
+[![Portfolio](https://img.shields.io/badge/shreevershith.com-play_the_career_game-FFCF3F?style=flat&logo=googlechrome&logoColor=black)](https://shreevershith.com/?utm_source=github&utm_medium=profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreevershith-k/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreevershith)
 
-> 🎮 My [portfolio](https://shreevershith.com/) is a pixel-art career game: walk four career levels, read the quest log, ask my AI bot, or play Bug Run (jump and duck).
+> 🎮 My [portfolio](https://shreevershith.com/?utm_source=github&utm_medium=profile) is a pixel-art career game: walk four career levels, read the quest log, ask my AI bot, or play Bug Run (jump and duck).
 
 <p align="center">
-  <a href="https://shreevershith.com/">
+  <a href="https://shreevershith.com/?utm_source=github&amp;utm_medium=profile">
     <img src="./gameplay.gif" alt="Recording of the portfolio: the home title screen, a Bug Run where the avatar jumps bugs and 500 errors, then the journey auto-walking through Bengaluru" width="600">
   </a>
-  <br><sub>Home → Bug Run → the journey. <a href="https://shreevershith.com/">Play it live</a>.</sub>
+  <br><sub>Home → Bug Run → the journey. <a href="https://shreevershith.com/?utm_source=github&amp;utm_medium=profile">Play it live</a>.</sub>
 </p>
 
 ---
@@ -134,4 +134,4 @@ Voice commands turned into actions **fully on-device** with local Whisper and Fu
 
 Hiring for Applied AI, AI Engineer or Forward Deployed roles? I'd love to talk.
 
-🌐 [Portfolio](https://shreevershith.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/shreevershith-k/)
+🌐 [Portfolio](https://shreevershith.com/?utm_source=github&utm_medium=profile) · 💼 [LinkedIn](https://www.linkedin.com/in/shreevershith-k/)
